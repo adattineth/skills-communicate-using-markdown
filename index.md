@@ -9,7 +9,6 @@ I made changes according to the instruction with police size instruction and has
 ``` python
 myVar = "Hello, world!"
 ```
-- [x] first element of my list checked
-- [ ]  Second element of my list not checked
-- [ ]  need to write something behind apparently but no need for capital letter
-
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
