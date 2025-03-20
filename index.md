@@ -9,6 +9,7 @@ I made changes according to the instruction with police size instruction and has
 ``` python
 myVar = "Hello, world!"
 ```
-- [x]first element of my list checked 
-- []secon element of my list not checked 
-- []
+- [x] first element of my list checked
+- [ ]  Second element of my list not checked
+- [ ]  need to write something behind apparently but no need for capital letter
+
